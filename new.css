@@ -1,0 +1,30 @@
+* {
+    background: grey;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background: grey;
+    text-align: center;
+}
+h1 {
+    font-weight: bold;
+    color: blue;
+}
+h2 {
+    font-weight: bold;
+    color: rgb(136, 136, 224);
+}
+
+p {
+   font-size: 30px;
+   font-style: italic;
+}
+ul {
+   color: orange;
+}
+ol {
+    color: red;
+}
+
